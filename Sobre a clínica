@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre a Clínica</title>
+    <img src="https://redevik.com.br/wp-content/uploads/2019/10/clinica-medica-rede-vik-tire-suas-duvidas-sobre-o-atendimento.jpg" width="600" height="200" />
+</head>
+<body style="background-color: aliceblue;">
+    <div class="menu">
+        <ul>
+            <li><a href="site.html" target="_self">Página Principal</a></li>
+            <li><a href="sobre.html" target="_self">Sobre a Clínica</a></li>
+            <li><a href="horario.html" target="_self">Horário de atendimento</a></li>
+            <li><a href="agendamento.html" target="_self">Agendamento</a></li>
+            <li><a href="contato.html" target="_self">Contato</a></li>
+        </ul>
+    </div>
+    <h1><u>Sobre a clínica</u></h1>
+    <div class="content">
+        <p><blockquote><p>A Clínica Médica é a especialidade da <strong>Medicina</strong> focada no diagnóstico e tratamento clínico das patologias em adultos, ou seja, sem cirurgia.O médico desta especialidade é responsável por avaliar o paciente de maneira completa e está apto a resolver a maioria das enfermidades, além de gerenciar o cuidado do paciente indicando o especialista adequado, caso haja necessidade.</p></blockquote></p>
+        <mark>Nossa Clínica oferece serviços completos de prática de cuidados com a visão. De exames de visão para lentes corretivas (óculos e lentes de contato) a avaliações sofisticadas de saúde ocular, incluindo detecção precoce de catarata e glaucoma, a OLHAR SAUDÁVEL oferece uma ampla gama de exames especializados usando a tecnologia mais recente disponível para o diagnóstico mais preciso de uma ampla gama de condições médicas dos olhos e doenças.</mark>
+    </div>
+    <div class="footer">
+        <h4>Endereço: Endereço: Av. São Miguel, 5813 - Vila Norma, São Paulo - SP, 03619-000</h4>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.7264072807143!2d-46.48005952403568!3d-23.5063620595751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce611d88d32f55%3A0x540b18d6574d8470!2sAv.%20S%C3%A3o%20Miguel%2C%205813%20-%20Jardim%20Cotinha%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2008070-002!5e0!3m2!1spt-BR!2sbr!4v1685743541856!5m2!1spt-BR!2sbr" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+</body>
+</html>
